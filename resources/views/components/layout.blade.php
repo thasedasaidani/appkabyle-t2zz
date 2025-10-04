@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
@@ -11,14 +12,15 @@
 
     <nav>
         <ul>
-            <x-link-item/>
-            <li><a href="/homepage">Go to Home Page</a></li>
-            <li><a href="/about">Go to About Page</a></li>
-            <li><a href="/contact">Go to Contact Page</a></li>
-            <li><a href="/lessons">Go to Lessons Page</a></li>
-            <li><a href="/quizzes">Go to Quizzes Page</a></li>
-            <li><a href="/vocabulary">Go to Vocabulary Page</a></li>
-            <li><a href="/progress">Go to Progress Page</a></li>
+            <x-link-item href="/" active=true>MyAppKabyle</x-link-item>
+            <x-link-item href="/homepage">home page</x-link-item>
+            <x-link-item href="/about">about page</x-link-item>
+             <x-link-item href="/contact">contact page</x-link-item>
+            <x-link-item href="/lessons">lessons page</x-link-item>
+            <x-link-item href="/quizzes">quizzes page</x-link-item>
+            <x-link-item href="/vocabulary">vocabulary page</x-link-item>
+            <x-link-item href="/progress">progress page</x-link-item>
+
         </ul>
     </nav>
 

@@ -9,14 +9,14 @@
 <body>
     <nav>
         <ul>
-            <li><a href="/">Go to Welcome Page</a></li>
-            <li><a href="/homepage">Go to Home Page</a></li>
-            <li><a href="/about">Go to About Page</a></li>
-            <li><a href="/contact">Go to Contact Page</a></li>
-            <li><a href="/lessons">Go to Lessons Page</a></li>
-            <li><a href="/quizzes">Go to Quizzes Page</a></li>
-            <li><a href="/vocabulary">Go to Vocabulary Page</a></li>
-            <li><a href="/progress">Go to Progress Page</a></li>
+            <li><a href="/">MyAppKabyle</a></li>
+            <li><a href="/homepage">home page</a></li>
+            <li><a href="/about">about page</a></li>
+            <li><a href="/contact">contact page</a></li>
+            <li><a href="/lessons">lessons page</a></li>
+            <li><a href="/quizzes">quizzes page</a></li>
+            <li><a href="/vocabulary">vocabulary page</a></li>
+            <li><a href="/progress">progress page</a></li>
         </ul>
     </nav>
 

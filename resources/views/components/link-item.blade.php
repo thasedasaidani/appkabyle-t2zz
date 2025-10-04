@@ -1,1 +1,2 @@
- <li><a href="/homepage">Go to Home Page</a></li>
+<li><a {{ $attributes}}>{{ $slot }}</a></li>
+
