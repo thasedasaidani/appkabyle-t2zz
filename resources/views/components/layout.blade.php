@@ -11,7 +11,7 @@
 
     <nav>
         <ul>
-            <li><a href="/">Go to Welcome Page</a></li>
+            <x-link-item/>
             <li><a href="/homepage">Go to Home Page</a></li>
             <li><a href="/about">Go to About Page</a></li>
             <li><a href="/contact">Go to Contact Page</a></li>
